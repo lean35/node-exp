@@ -8,9 +8,7 @@
 ### Getting Started (Init)
 
 > npm init
-
 > npm install express --save
-
 > npm install -g nodemon
 
 
