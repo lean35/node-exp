@@ -7,13 +7,14 @@
 
 ### Getting Started (Init)
 
-## [ng2 and node lynda link](https://www.lynda.com/AngularJS-tutorials/Create-service/576588/615481-4.html?autoplay=true)
+
 
 > npm init
 > npm install express --save
 > npm install -g nodemon
 
-### Test
+## Create a Service
+### [ng2 and node lynda link](https://www.lynda.com/AngularJS-tutorials/Create-service/576588/615481-4.html?autoplay=true)
 
 
 
