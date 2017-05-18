@@ -3,12 +3,14 @@
 ### markdown cheatsheet
 
 
-## [github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### [github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Getting Started (Init)
 
 > npm init
+
 > npm install express --save
+
 > npm install -g nodemon
 
 
