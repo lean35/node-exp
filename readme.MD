@@ -3,4 +3,11 @@
 
 * npm init
 * npm install express --save
+
+3.
+    a. Setup express
+    b. Create a Service 
+        http://localhost:1234/messages
+        
+
 * npm install -g nodemon
