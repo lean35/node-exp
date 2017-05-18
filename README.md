@@ -1,8 +1,8 @@
 # lynda - ng2 with node
+
 ## Project: https://github.com/lean35/node-exp
-### markdown cheatsheet
 
-
+## Markdown Cheatsheet
 ### [github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Getting Started (Init)
